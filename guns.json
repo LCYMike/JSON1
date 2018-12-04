@@ -1,0 +1,38 @@
+{"guns": {
+    "pistols": {
+		"FN Five-seveN": {
+			"origin": "Belgium",
+			"designer": "Fabrique Nationale de Herstal (FN)",
+			"designed": "1993-1998",
+			"manufacturer": "Fabrique Nationale de Herstal (FN)",
+			"produced": "1998-present",
+			"fireing modes": {
+				"safe": "Y",
+				"semi-automatic": "Y",
+				"burst-fire": "N",
+				"full-automatic": "N"
+			},
+			"caliber": "FN 5,7×28mm",
+			"ammo holder": "",
+			"fire rate": "",
+			"bullet velocity": "",
+			"weight": "",
+			"width": "",
+			"height": "",
+			"length": "208 mm",
+			"weight (empty)": "618 g",
+			"weight (loaded)": "714 g",
+			"max range": "1510 m",
+			"effective range": "50 m",
+			"variants": {
+				"VARIANT 1": "Five-seven Tactical",
+				"VARIANT 2": "Five-seven IOM",
+				"VARIANT 3": "Five-seven USG",
+				"VARIANT 4": "Five-seven FDG",
+				"VARIANT 5": "Five-seven ODG",
+				"VARIANT 6": "Five-seven MK2"
+			}
+		}
+	}
+	
+}}
